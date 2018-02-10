@@ -1,0 +1,6 @@
+I:\трпо практика\Shapes\Shapes\Shapes\bin\Debug\Shapes.exe.config
+I:\трпо практика\Shapes\Shapes\Shapes\bin\Debug\Shapes.exe
+I:\трпо практика\Shapes\Shapes\Shapes\bin\Debug\Shapes.pdb
+I:\трпо практика\Shapes\Shapes\Shapes\obj\Debug\Shapes.csprojResolveAssemblyReference.cache
+I:\трпо практика\Shapes\Shapes\Shapes\obj\Debug\Shapes.exe
+I:\трпо практика\Shapes\Shapes\Shapes\obj\Debug\Shapes.pdb
